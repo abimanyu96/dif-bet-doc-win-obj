@@ -1,0 +1,11 @@
+
+WINDOW OBJECT
+        window object is a global object
+        it contain DOM document 
+        it is supported by all browser
+        
+DOCUMENT OBJECT
+        document object is in HTML that appear in browser window 
+        it is used for change the structure, style by programs and script
+        used to allow dynamic updates & interaction with web page 
+        by using it we can access the element in the HTMLpage 
